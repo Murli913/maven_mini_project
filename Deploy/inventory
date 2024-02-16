@@ -1,0 +1,2 @@
+[localhost]
+Murli ansible_connection=local
